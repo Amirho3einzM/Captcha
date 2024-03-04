@@ -3,8 +3,7 @@
 
 # Captcha
 
-![Captcha Logo](https://github.com/Amirho3einzM/Captcha/blob/main/logo.png)
-
+---
 ## Overview
 
 Captcha is a Python-based software designed to generate and solve simple arithmetic captchas. It ensures that the user interacting with the software is human rather than a bot by asking math-related questions.
